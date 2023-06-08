@@ -1,0 +1,15 @@
+Abbreviation,Description,Type
+LL,Left Hand Drive,steering_wheel_config
+RL,Right Hand Drive,steering_wheel_config
+P33BA,M Sport Package Pro,available_pkgs
+P337A,M Sport Package,available_pkgs
+P7LGA,Comfort Package EU,available_pkgs
+S407A,Panorama Glass Roof Sky Lounge,roof_config
+S402A,Panorama Glass Roof,roof_config
+S403A,Sunroof,roof_config
+21CF,iX xDrive50,model
+11CF,iX xDrive40,model
+21EM,X7 xDrive40i,model
+21EN,X7 xDrive40d,model
+DZ01,M8,model
+28FF,318i,model
